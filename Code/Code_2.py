@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 """
 Created on Mon Dec  6 18:26:50 2021
 
-@author: Heejun Lee
+@author: Jawwad Shadman Siddique
 """
 
 # import libraries
